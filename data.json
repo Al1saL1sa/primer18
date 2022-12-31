@@ -1,0 +1,17 @@
+[
+    {
+        "name_shop": "byСметана",
+        "name_product": "Морковь",
+        "prise": 100
+    },
+    {
+        "name_shop": "БабушкинаГрядка",
+        "name_product": "Помердор",
+        "prise": 500
+    },
+    {
+        "name_shop": "Автозавод3000",
+        "name_product": "Машина",
+        "prise": 10
+    }
+]
